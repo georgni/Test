@@ -20,7 +20,14 @@ namespace TestMvc.Controllers
 
         public AccountController()
         {
+			
+			sadfjkpaksdpk[pasdf
+			
+			asdfaskfdla
+			
+			asdfkjas;dfl
         }
+		
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
         {
