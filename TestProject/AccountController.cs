@@ -13,6 +13,7 @@ using TestMvc.Models;
 TOTO JSOU ZMENY UZIVATELE 1
 ZMENA 1
 ZMENA 2
+ZMENA 3
 namespace TestMvc.Controllers
 {
     [Authorize]
