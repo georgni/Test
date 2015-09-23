@@ -27,6 +27,8 @@ namespace TestMvc.Controllers
 		
         }
 		
+		ZMENY UZIVATELE 2
+		ZMENA 1
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
         {
