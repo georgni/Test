@@ -10,6 +10,9 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using TestMvc.Models;
 
+TOTO JSOU ZMENY UZIVATELE 1
+ZMENA 1
+
 namespace TestMvc.Controllers
 {
     [Authorize]
@@ -20,12 +23,7 @@ namespace TestMvc.Controllers
 
         public AccountController()
         {
-			
-			sadfjkpaksdpk[pasdf
-			
-			asdfaskfdla
-			
-			asdfkjas;dfl
+		
         }
 		
 
